@@ -1,6 +1,6 @@
 config:
   dockerfile: .woloxci/Dockerfile
-  project_name: example
+  project_name: demo 
 
 dist: xenial
 language: python
