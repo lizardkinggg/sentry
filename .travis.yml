@@ -1,3 +1,7 @@
+config:
+  dockerfile: .woloxci/Dockerfile
+  project_name: example
+
 dist: xenial
 language: python
 python: 2.7
